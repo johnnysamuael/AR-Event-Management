@@ -1,33 +1,39 @@
-# AR-Event-Management
 
-
-# AR Event Management with Razorpay Integration
+# AR Event Management with Razorpay Integration | Flutter
 
 - User-friendly hassle-free website/Application based Event management App.
 - Virtualise any event or event location before booking. 
 - Firebase Integration for Authentication and Firestore to store user data.
 - Flutter based
 - AR/VR Video Integration. 
-## ER Diagrams
+# Software Architecture
+<details>
+  <summary>State Diagram </summary>
 
-- ### Use Case Diagram
-<img src="images/usecase.png" alt="AR Event Management" >
+<img src="readme_assets/state.png" alt="AR Event Management" >
+</details>
+<details>
+  <summary>Use case Diagram </summary>
 
-- ### ER Diagram
-<img src="images/ER.png" alt="AR Event Management" >
+<img src="readme_assets/usecase.png" alt="AR Event Management" >
+  </details>
 
-- ### State Diagram
-<img src="images/State.png" alt="AR Event Management" >
+  <details>
+  <summary>ER Diagram </summary>
+
+<img src="readme_assets/ER.png" alt="AR Event Management"  >
+  
+  </details>
 
 
 
 ## Design
 
-<img src="images/design.png" alt="AR Event Management" >
+<img src="readme_assets/design.png" alt="AR Event Management" height="600" width="600" >
 
 ## Demo
 
-<img src="images/demo.gif" alt="AR Event Management" >
+<img src="readme_assets/demo.gif" alt="AR Event Management" >
 
 
   
