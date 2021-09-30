@@ -1,0 +1,74 @@
+[
+  {
+    "Name ": "Software Enginnering",
+    "Host" : "Dr. Nimala ",
+    "Description ": "Software engineering is a branch of computer science which includes the development and building of computer systems software and applications software",
+    "Image": "https://miro.medium.com/max/4544/1*cbpI5VKHlTL4K7Iab8_2Cw.png"
+  },
+  {
+    "Name ": "Virtual Experience",
+    "Host" : "Travis Scott ",
+    "Description ": "Jacques Bermon Webster II, known professionally as Travis Scott, is an American rapper, singer, songwriter, and record producer. Scott's musical style has been described as a fusion of traditional rap, hip",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAlvzQvnp655DhnMm4r9svJbtUfy4TwIr9qw&usqp=CAU"
+  },
+  {
+    "Name ": "Virtual Tour",
+    "Host" : "Travis Scott ",
+    "Description ": "Experience what its like to be in the $5 Billion Apple Campus",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kIxMczjtsVm_DA7GVYVNrhiqHEOxu2aDbA&usqp=CAU"
+  },
+  {
+    "Name ": "Guide To Investing",
+    "Host" : "Agarwal Captital",
+    "Description ": "The Studio at TFD presents: The Beginner's Guide To Investing, a workshop to teach you the basics of investing.\r",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F128049763%2F223901959787%2F1%2Foriginal.20210304-235713?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=cf58cd472769a301afb00f9568d1f103"
+  },
+  {
+    "Name ": "Get the job you want",
+    "Host" : "IBM",
+    "Description ": "Learn practical skills that will help you get the job you want in this free series from IBM’s Open P-TECH.",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F128564873%2F141852906873%2F1%2Foriginal.20210310-022311?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4320%2C2160&s=116f1730b672f06b7f250d19ca2f6ce7"
+  },
+  {
+    "Name ": "Healing Trauma with Psychedelics",
+    "Host" : "Dr. Gabor Maté",
+    "Description ": "Host Trevor Millar sits down with friend & colleague Dr. Gabor Maté for a discussion on trauma, psychedelics, and the state of the world.",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F131340469%2F464780387787%2F1%2Foriginal.20210406-172142?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C100%2C1600%2C800&s=6790fd80ca7c8cb0f27cdb5572ad9961"
+  },
+  {
+    "Name ": "Tai Chi skills",
+    "Host" : "Chang Chi",
+    "Description ": "Learning even basic Tai Chi skills can promote balance, calmness, and mental focus",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F126894415%2F166312578381%2F1%2Foriginal.20210222-225754?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1590%2C795&s=88ef3bef0fddf840b41fdff1dcd0bb1e"
+  },
+  {
+    "Name ": "Venture Capital,Starts Ups",
+    "Host" :  "INSEAD",
+    "Description ": "In the workshop we look at Venture Capital, Business Angels and Startups. If you are (or want to be) an venture capitalist or a business angel, you learn how to identify high-performing start-ups and how to help them to become successful. If you work (or want to work) in a startup, you learn how to get offers from venture capitalists, how to choose among these, and how to ensure you get the most out of the relationship with your investor.",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F106250564%2F141145280924%2F1%2Foriginal.20200715-234449?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C1280%2C640&s=76e2597c69b3a12ee745bd07d2339be9"
+  },
+  {
+    "Name ": "The Geology of Mars",
+    "Host" : "Space X",
+    "Description ": "Explore the landscapes and rocks of Mars with planetary geologist, Dr Matt Balme.\r\n",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F120888239%2F236461761245%2F1%2Foriginal.20201214-124011?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1600%2C800&s=4c69f8bfe1360fb7102db89ea0393ccb"
+  },
+  {
+    "Name ": "Challenges Summit",
+    "Host" : "IEEE",
+    "Description ": "The 2021 IEEE Vision, Innovation, and Challenges Summit (VIC Summit) and Honors Ceremony will continue to be the \"experience of a lifetime!\"",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F124913515%2F37008583268%2F1%2Foriginal.20210202-160409?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C25%2C848%2C424&s=a45757fd149e0d4c3c589a8421b7125d"
+  },
+  {
+    "Name ": "Securing your Cryptocurrency",
+    "Host" : "Binance",
+    "Description ": "Binance Masterclass has become the leading crypto training course for both crypto newbies and enthusiasts since its launch in 2020.",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F132750747%2F482565109445%2F1%2Foriginal.20210420-041858?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=342cd78aeca14976ee161103846199d5"
+  },
+  {
+    "Name ": "Interview Skills Workshop",
+    "Host" : "Atlassian",
+    "Description ": "Atlassian has created a helpful toolkit that's relevant for every candidate and any interview process!\r",
+    "Image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F123422137%2F273059200511%2F1%2Foriginal.20210118-055246?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C7%2C2788%2C1394&s=63dc269d9612ef33eaf933f4ac6ad9bd"
+  }
+]

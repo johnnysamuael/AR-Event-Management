@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701217691631",
+    "project_id": "arvent-13a3a",
+    "storage_bucket": "arvent-13a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701217691631:android:e044b51dbccfd7d857081a",
+        "android_client_info": {
+          "package_name": "com.arvent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701217691631-f8rr6q1r1m89j694uhqinb84svagiclp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZBuzqeSdG4D-gyCor9W4cLEcrJrV3fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701217691631-f8rr6q1r1m89j694uhqinb84svagiclp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
