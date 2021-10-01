@@ -29,7 +29,7 @@
 
 ## Design
 
-<img src="readme_assets/design.png" alt="AR Event Management" height="600" width="600" >
+<img src="readme_assets/design.png" alt="AR Event Management" height="600" width="800" >
 
 ## Demo
 
