@@ -6,6 +6,7 @@
 - Firebase Integration for Authentication and Firestore to store user data.
 - Flutter based
 - AR/VR Video Integration. 
+- Razorpay API Integration to make payments
 # Software Architecture
 <details>
   <summary>State Diagram </summary>
