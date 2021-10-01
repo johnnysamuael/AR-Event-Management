@@ -33,7 +33,7 @@
 
 ## Demo
 
-<img src="readme_assets/demo.gif" alt="AR Event Management" >
+<img src="readme_assets/demogif.gif" alt="AR Event Management" >
 
 
   
