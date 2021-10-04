@@ -36,5 +36,7 @@
 
 <img src="readme_assets/demogif.gif" alt="AR Event Management" >
 
-
+## Collaborators :
+- <a href="https://github.com/saketkattu"> Saket Kattuboina </a>
+- <a href="https://github.com/mayankparida"> Mayank Parida </a>
   
